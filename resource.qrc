@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/close.png</file>
+        <file>icons/pencil.png</file>
+        <file>style/stylesheet.css</file>
+        <file>icons/check-mark.png</file>
+        <file>icons/folder.png</file>
+    </qresource>
+</RCC>

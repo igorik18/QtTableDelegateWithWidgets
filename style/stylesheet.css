@@ -1,0 +1,28 @@
+QPushButton#btnEdit {
+    qproperty-icon: url(:/icons/pencil.png);
+    background: transparent; /* Убираем фон */
+    border: none;            /* Убираем границы */
+    padding: 0;              /* Убираем отступы */
+}
+
+QPushButton#btnAllow {
+    qproperty-icon: url(:/icons/check-mark.png);
+    background: transparent; /* Убираем фон */
+    border: none;            /* Убираем границы */
+    padding: 0;              /* Убираем отступы */
+}
+
+QPushButton#btnDeny {
+    qproperty-icon: url(:/icons/close.png);
+    background: transparent; /* Убираем фон */
+    border: none;            /* Убираем границы */
+    padding: 0;              /* Убираем отступы */
+}
+
+QPushButton#pathButton {
+    qproperty-icon: url(:/icons/folder.png);
+    background: transparent; /* Убираем фон */
+    border: none;            /* Убираем границы */
+    padding: 0;              /* Убираем отступы */
+}
+
